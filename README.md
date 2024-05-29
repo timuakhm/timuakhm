@@ -15,4 +15,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Timur Akhmetshin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= https://linkedin.com/in/timurakhmetshin/  />]
+<img align="left" alt="Timur Akhmetshin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+LinkedIn: https://linkedin.com/in/timurakhmetshin/  
