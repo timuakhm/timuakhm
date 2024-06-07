@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory](xxx)
-  - [Azure Sentinel (SIEM)](xxx)
-  - [Vulnerability Management](xxx)
+  - [Active Directory]()
+  - [Azure Sentinel (SIEM)]()
+  - [Vulnerability Management]()
 
 
 <h2>📝 Certifications</h2>
