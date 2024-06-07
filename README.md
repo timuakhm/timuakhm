@@ -4,7 +4,7 @@
 
   - Active Directory
   -  <a href="https://github.com/timuakhm/Azure-Sentinel-SIEM-/tree/main">Azure Sentinel (SIEM)</a>
-  - Vulnerability Management
+  - <a href="https://github.com/timuakhm/Nessus-Vulnerability-Management">Vulnerability Management</a>
 
 
 <h2>📝 Certifications</h2>
