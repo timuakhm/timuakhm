@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - Active Directory
-  - Azure Sentinel (SIEM)
+  -  <a href="https://github.com/timuakhm/Azure-Sentinel-SIEM-/tree/main">Azure Sentinel (SIEM)</a>
   - Vulnerability Management
 
 
