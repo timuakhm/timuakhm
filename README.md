@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - Active Directory
-  -  <a href="https://github.com/timuakhm/Azure-Sentinel-SIEM-/tree/main">Azure Sentinel (SIEM)</a>
+  - <a href="https://github.com/timuakhm/Active-Directory">Active Directory</a>
+  - <a href="https://github.com/timuakhm/Azure-Sentinel-SIEM-/tree/main">Azure Sentinel (SIEM)</a>
   - <a href="https://github.com/timuakhm/Nessus-Vulnerability-Management">Vulnerability Management</a>
 
 
